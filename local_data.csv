@@ -1,0 +1,32 @@
+Bin NO,Location Rack,Part No,Name,Date_Time,Availability,Checked_by
+1,A,KH 35654,Plate,2023-12-23 14:37:23,available,shriniwas
+2,A,KF 56186,Bracket,2023-12-23 14:37:21,available,shriniwas
+3,A,SK 65166,Rod,2023-12-23 14:37:14,available,shriniwas
+4,A,LDK 65161,Circle,2023-12-23 14:37:35,available,shriniwas
+5,,,,,unavailable,
+6,B,KS 56161,Wing,2023-12-23 19:55:19,available,Shriniwas
+7,B,KF 618961,washer,2023-12-23 14:38:27,available,shriniwas
+8,,,,,unavailable,
+9,B,KFR 45665,Rivet,2023-12-23 14:37:29,available,shriniwas
+10,B,KA 45632,Nut,2023-12-23 14:38:18,available,shriniwas
+11,C,KFD 32156,Bolt,2023-12-23 14:36:49,available,shriniwas
+12,C,E 65123,Spanner,2023-12-23 14:38:21,available,shriniwas
+13,C,FR 32156,Lock,2023-12-23 14:37:33,available,shriniwas
+14,C,KA 321536,Stapler,2023-12-23 14:38:09,available,shriniwas
+15,C,KE 312651,Screen,2023-12-23 14:37:31,available,shriniwas
+16,,,,,unavailable,
+17,D,EK 3151,Circlip,2023-12-23 14:38:24,available,shriniwas
+18,D,AJJ 31561,Anchor,2023-12-23 14:38:59,available,shriniwas
+19,D,JAKJ 3161,Tungsten,2023-12-23 14:39:08,available,shriniwas
+20,D,AKAJ 3141,Alluminium,2023-12-23 14:36:45,available,shriniwas
+20,D,AKAJ 3141,Alluminium,2023-12-23 19:55:17,available,Shriniwas
+21,E,AKAJ 316161,Forging,2023-12-23 14:37:19,available,shriniwas
+22,E,KKD 3116,MS,2023-12-23 14:37:05,available,shriniwas
+23,E,KA 3161,Inconel,2023-12-23 14:36:58,available,shriniwas
+24,,,,,unavailable,
+25,E,KER 31516,SS,2023-12-23 14:39:10,available,shriniwas
+26,,,,,unavailable,
+27,,,,,unavailable,
+28,,,,,unavailable,
+29,,,,,unavailable,
+30,,,,,unavailable,
