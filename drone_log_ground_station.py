@@ -4,7 +4,6 @@ import time
 import os
 import pandas as pd
 
-# Replace with your repository details
 owner = 'snowxx456'
 repo = 'Inventory_management'
 file_path = 'data.csv'
