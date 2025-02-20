@@ -5,12 +5,12 @@ import os
 import pandas as pd
 
 # Replace with your repository details
-owner = 'dronelog-uasnmims'
-repo = 'qr-code'
+owner = 'snowxx456'
+repo = 'Inventory_management'
 file_path = 'data.csv'
 
 # Replace with your actual access token
-token = 'your-github-token-here' 
+token = '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' 
 
 # Set up authentication headers
 headers = {
